@@ -6,7 +6,7 @@ from detector import detectFace
 from trainer import training
 
 
-subjects = ['', 'Neeraj_Singh', 'Devesh_Shakya', "Gaurav_Jangid"]
+subjects = ['']  # add names of the people
 
 
 def drawRect(image, rect):
